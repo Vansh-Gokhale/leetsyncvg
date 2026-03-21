@@ -43,17 +43,6 @@ Each solution includes:
 
 ---
 
-## 📅 Daily Progress
-
-| Day   | Problem                                        | Difficulty | Status |
-| ----- | ---------------------------------------------- | ---------- | ------ |
-| Day 1 | Two Sum                                        | Easy       | ✅      |
-| Day 2 | Add Two Numbers                                | Medium     | ✅      |
-| Day 3 | Longest Substring Without Repeating Characters | Medium     | ✅      |
-
-*(Updated regularly)*
-
----
 
 ## 🎯 Goals
 
@@ -64,18 +53,7 @@ Each solution includes:
 
 ---
 
-## 🛠️ How to Use
 
-1. Clone the repository
-
-```bash id="cboh1v"
-git clone https://github.com/your-username/LeetsyncVG.git
-```
-
-2. Navigate by difficulty
-3. Explore solutions and approaches
-
----
 
 ## 🤝 Contributions
 
@@ -87,14 +65,6 @@ This is a personal practice repository, but suggestions are welcome!
 
 If you find this helpful, consider giving it a ⭐!
 
----
-
-## 📬 Connect with Me
-
-* 💼 LinkedIn: *Add your link here*
-* 🧑‍💻 GitHub: *Add your profile link*
-
----
 
 **Consistency > Motivation 🔥**
 Keep grinding. Keep growing. 💪
