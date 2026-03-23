@@ -1,5 +1,3 @@
-from typing import List
-from itertools import pairwise
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
