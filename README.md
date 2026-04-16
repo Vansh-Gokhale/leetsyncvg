@@ -1,7 +1,7 @@
 
 
 # 🚀 LeetsyncVG
-
+by vansh 
 Welcome to **LeetsyncVG** — my personal repository for tracking and storing daily LeetCode problem solutions.
 
 ---
