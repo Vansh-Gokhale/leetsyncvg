@@ -1,9 +1,10 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        dic ={}
-        for index,num in enumerate(nums):
-            if num in dic:
-                if abs(dic[num]-index)<=k:
-                    return True
-            dic[num]=index
+        seen = {}
+
+        for i, num in enumerate(nums):
+            if num in seen and i - seen[num] <= k:
+                return True
+            seen[num] = i
+
         return False
